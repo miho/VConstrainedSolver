@@ -4,4 +4,4 @@
 
 This library contains constraint solving algorithms for layout & CAD applications.
 
-Currently, this library makes use of the [Cassowary](https://overconstrained.io/) constrained solver. It contains the [kiwi-java](https://github.com/alexbirkett/kiwi-java) port by [Alex Birkett](https://github.com/alexbirkett). In future releases, other constrained solving algorithms might be integrated.
+Currently, this library makes use of the [Cassowary](https://overconstrained.io/) constraint solver. It contains the [kiwi-java](https://github.com/alexbirkett/kiwi-java) port by [Alex Birkett](https://github.com/alexbirkett). In future releases, other constraint solving algorithms might be integrated (e.g. non-linear solvers for CAD).
