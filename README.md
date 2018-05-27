@@ -1,5 +1,5 @@
 # VConstrainedSolver
-
+[![Build Status](https://travis-ci.org/miho/VConstrainedSolver.svg?branch=master)](https://travis-ci.org/miho/VConstrainedSolver)
 [ ![Download](https://api.bintray.com/packages/miho/Ext/VConstrainedSolver/images/download.svg) ](https://bintray.com/miho/Ext/VConstrainedSolver/_latestVersion)
 
 This library contains constraint solving algorithms for layout & CAD applications.
