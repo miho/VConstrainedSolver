@@ -1,0 +1,25 @@
+// -----------------------------------------------------------------------------
+// publishing information
+// -----------------------------------------------------------------------------
+ext.publishing.artifactId =  project.name.toLowerCase()
+ext.publishing.groupId    =  'eu.mihosoft.vconstrainedsolver'
+ext.publishing.versionId  =  '0.1'
+
+ext.publishing.developerName         = 'Michael Hoffer'
+ext.publishing.developerAlias        = 'miho'
+ext.publishing.developerEmail        = 'info@michaelhoffer.de'
+ext.publishing.inceptionYear         = '2018'
+
+ext.publishing.bintray.repo          = 'Ext'
+ext.publishing.bintray.userOrg       = 'miho'
+ext.publishing.bintray.name          = project.name
+
+ext.publishing.desc                  = 'Contrained solver library (for layout, CAD etc.)'
+ext.publishing.license               = 'BSD 3-Clause'
+ext.publishing.licenseUrl            = 'https://github.com/miho/VConstrainedSolver/blob/master/LICENSE'
+ext.publishing.labels                = ['Constrained Solver', 'layout', 'cad','opencascade','constructive solid geometry', 'vmf', 'vrl','vrl-studio']
+ext.publishing.websiteUrl            = 'https://github.com/miho/VConstrainedSolver'
+ext.publishing.issueTrackerUrl       = 'https://github.com/miho/VConstrainedSolver/issues'
+ext.publishing.vcsUrl                = 'git@github.com:miho/VConstrainedSolver.git'
+
+ext.publishing.pomName               =  ext.publishing.artifactId
